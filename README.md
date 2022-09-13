@@ -12,7 +12,7 @@
 </br></br></br>
 
 ### ✨Project✨
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzuub&repo=Kurly_Server&theme=ayu-mirage&layout=compact)](https://github.com/zzuub/Kurly_Server.git)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzuub&repo=Kurly_Server&theme=ayu-mirage&layout=compact)](https://github.com/Kurvey/Server.git)  
 
 </br>
 
