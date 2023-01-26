@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Ahn%20JuWon&fontSize=50&fontAlign=50&desc=Backend%20Developer&descSize=30&descAlign=50&descAlignY=30&animation=fadeIn)
 
 ### 🎈About Me🎈
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" height=30px>](https://2.notion.site/Backend-Developer-7f49a753f36f4887ab64997991874)   <a href="https://reese5959.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://reese5959.tistory.com/"></a>
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" height=30px>](https:://link)   <a href="https://reese5959.tistory.com/"><img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://reese5959.tistory.com/"></a>
 
 </br></br>
 
