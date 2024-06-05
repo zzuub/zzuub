@@ -19,8 +19,7 @@
 <img
   src="https://render.gitanimals.org/farms/zzuub"
   width="600"
-  height="300"
-/>
+  height="300" />
 </a>
 
 </br>
