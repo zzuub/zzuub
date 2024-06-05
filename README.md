@@ -13,6 +13,11 @@
 
 ### ✨Project✨
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzuub&repo=Kurly_Server&theme=ayu-mirage&layout=compact)](https://github.com/Kurvey/Server.git)  
+</br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{zzuub}?pet-id=1" width="1000" height="120"/>
+</a>
 
 </br>
 
