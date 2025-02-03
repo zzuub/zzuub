@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img  src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
 </br></br></br>
 
-### ✨Project✨
+### ✨Projects✨
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzuub&repo=Kurly_Server&theme=ayu-mirage&layout=compact)](https://github.com/Kurvey/Server.git)  
 </br>
 
