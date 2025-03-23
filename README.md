@@ -8,12 +8,19 @@
 </br></br>
 
 ### 📚Tech Stacks 📚
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img  src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green"> <img  src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">   
+</br>
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </br></br></br>
 
 ### ✨Projects✨
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzuub&repo=Kurly_Server&theme=ayu-mirage&layout=compact)](https://github.com/Kurvey/Server.git)  
 </br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zzuub&repo=project-blended-backend&theme=ayu-mirage&layout=compact)](https://github.com/zzuub/project-blended-backend.git)
+
+</br></br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
