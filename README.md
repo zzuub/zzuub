@@ -17,6 +17,11 @@
 <h4>DataBase</h4>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<h4>Cloud</h4>
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
+<img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white">
+
 <h4>Frontend</h4>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
